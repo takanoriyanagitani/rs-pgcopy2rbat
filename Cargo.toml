@@ -3,6 +3,13 @@ name = "rs-pgcopy2rbat"
 version = "0.1.0"
 edition = "2024"
 
+description = "Convert PostgreSQL binary COPY to Arrow RecordBatch"
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-pgcopy2rbat"
+homepage = "https://github.com/takanoriyanagitani/rs-pgcopy2rbat"
+documentation = "https://docs.rs/rs-pgcopy2rbat/latest"
+keywords = ["postgres", "arrow", "pgcopy", "copy", "convert"]
+
 exclude = [
 ]
 
